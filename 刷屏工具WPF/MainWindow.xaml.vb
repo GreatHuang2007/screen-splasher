@@ -16,7 +16,7 @@ Class MainWindow
     End Sub
 
     ''' <summary>
-    ''' 验证刷屏次数是否合法
+    ''' 验证刷屏次数格式是否正确
     ''' </summary>
     Sub VerifySpTime()
         Dim Val As UInteger
